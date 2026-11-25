@@ -28,7 +28,7 @@ Il server gestisce l'autenticazione delle aziende, la pubblicazione e consultazi
 
 ### 1. Clonare il repository e creare il virtual environment
 ```bash
-git clone <url-repo-backend>
+git clone https://github.com/alphi0m/job_board_backend.git
 cd job_board_backend
 
 python3 -m venv venv
